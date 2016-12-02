@@ -5,8 +5,11 @@
 
 - Visual Studio 2013, 2015
 - [ReSharper](https://www.jetbrains.com/resharper/)
+- [OzCode](http://www.oz-code.com/)
 - AOP Framework - [POSTSHARP](https://www.postsharp.net/)
 - Regular Expression Debugger for .NET - [REGEX TESTER](http://regexstorm.net/tester)
+- 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
+- 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
 
 ----
 ## 系統工具

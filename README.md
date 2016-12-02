@@ -8,7 +8,7 @@
 
 ## 系統工具
 
-### 硬體資訊檢測工具
+#### 硬體資訊檢測工具
 > - [HWiNFO](https://www.hwinfo.com/)
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)
 

@@ -7,4 +7,4 @@
 ## 系統工具
 
 - 硬體資訊檢測工具 - [HWiNFO](https://www.hwinfo.com/)
-- MEMORY Dump 檔案檢視工具 - [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html) ([文章](http://download.ithome.com.tw/article/index/id/290))
+- MEMORY Dump 檔案檢視工具 - [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html)（[文章](http://download.ithome.com.tw/article/index/id/290)）

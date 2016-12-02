@@ -6,6 +6,7 @@
 - Visual Studio 2013, 2015
 - [ReSharper](https://www.jetbrains.com/resharper/)
 - AOP Framework - [POSTSHARP](https://www.postsharp.net/)
+- Regular Expression Debugger for .NET - [REGEX TESTER](http://regexstorm.net/tester)
 
 ----
 ## 系統工具

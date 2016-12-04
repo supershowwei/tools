@@ -10,6 +10,10 @@
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
 
+## 持續整合
+
+- [Jenkins](https://jenkins.io/)（[文章](https://dotblogs.com.tw/supershowwei/tags/1?qq=CI)）
+
 ## 系統工具
 
 #### 硬體資訊檢測工具
@@ -21,3 +25,7 @@
 ## 螢幕截圖
 
 - [Snagit](https://www.techsmith.com/snagit.html)
+
+## 效能評測
+
+- 資料庫效能評測 - [HammerDB](http://www.hammerdb.com/)

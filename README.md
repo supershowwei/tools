@@ -10,6 +10,12 @@
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
 
+#### SSMS Add-Ins
+
+- [dbForge SQL Complete Express](https://www.devart.com/dbforge/sql/sqlcomplete/)
+- [ApexSQL Refactor](http://www.apexsql.com/sql_tools_refactor.aspx)
+- [redgate SQL Search](http://www.red-gate.com/products/sql-development/sql-search/)
+
 ## 持續整合
 
 - [Jenkins](https://jenkins.io/)（[文章](https://dotblogs.com.tw/supershowwei/tags/1?qq=CI)）

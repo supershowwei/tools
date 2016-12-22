@@ -3,12 +3,19 @@
 ## 開發工具
 
 - Visual Studio 2013, 2015
-- [ReSharper](https://www.jetbrains.com/resharper/)
-- [OzCode](http://www.oz-code.com/)
 - AOP Framework - [POSTSHARP](https://www.postsharp.net/)
 - Regular Expression Debugger for .NET - [REGEX TESTER](http://regexstorm.net/tester)
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
+
+#### Visual Studio 擴充套件
+
+- [ReSharper](https://www.jetbrains.com/resharper/)
+- [OzCode](http://www.oz-code.com/)
+- [CodeMaid](http://www.codemaid.net/)
+- [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides)
+- [GhostDoc](http://submain.com/products/ghostdoc.aspx)
+- Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015)
 
 #### SSMS Add-Ins
 

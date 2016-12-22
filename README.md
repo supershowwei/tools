@@ -15,6 +15,8 @@
 > - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides)
 > - [GhostDoc](http://submain.com/products/ghostdoc.aspx)
 > - Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015)
+> - [SmartPaster](https://github.com/martinjw/SmartPaster2013)
+> - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete Express](https://www.devart.com/dbforge/sql/sqlcomplete/)

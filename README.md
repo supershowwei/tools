@@ -7,6 +7,7 @@
 - Regular Expression Debugger for .NET - [REGEX TESTER](http://regexstorm.net/tester)
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
+
 - **Visual Studio 擴充套件**
 > - [ReSharper](https://www.jetbrains.com/resharper/)
 > - [OzCode](http://www.oz-code.com/)
@@ -14,6 +15,7 @@
 > - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides)
 > - [GhostDoc](http://submain.com/products/ghostdoc.aspx)
 > - Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015)
+
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete Express](https://www.devart.com/dbforge/sql/sqlcomplete/)
 > - [ApexSQL Refactor](http://www.apexsql.com/sql_tools_refactor.aspx)

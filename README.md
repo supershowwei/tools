@@ -18,6 +18,7 @@
 > - [SmartPaster](https://github.com/martinjw/SmartPaster2013)
 > - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)
 > - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015)
+> - [Automatic Versions](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete Express](https://www.devart.com/dbforge/sql/sqlcomplete/)

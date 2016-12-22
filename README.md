@@ -17,6 +17,7 @@
 > - Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015)
 > - [SmartPaster](https://github.com/martinjw/SmartPaster2013)
 > - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)
+> - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete Express](https://www.devart.com/dbforge/sql/sqlcomplete/)

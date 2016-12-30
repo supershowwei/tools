@@ -32,6 +32,7 @@
 ## 系統工具
 
 - MEMORY Dump 檔案檢視工具 - [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html)（[文章](http://download.ithome.com.tw/article/index/id/290)）
+- 把記憶體當磁碟機使 - [Dataram RAMDisk](http://memory.dataram.com/products-and-services/software/ramdisk)
 
 - **硬體資訊檢測工具**
 > - [HWiNFO](https://www.hwinfo.com/)

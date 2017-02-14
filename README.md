@@ -8,6 +8,7 @@
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)
 - 分析 SQL 執行計劃 - [SQL Sentry Plan Explorer](https://sentryone.com/plan-explorer)（[文章](http://www.cnblogs.com/SameZhao/p/6186023.html)）
+- 排程器 API - [Quartz.NET](https://www.quartz-scheduler.net/)（[文章](http://huan-lin.blogspot.com/2014/03/aspnet-background-tasks-using-quartznet.html)）
 
 - **Visual Studio 擴充套件**
 > - [ReSharper](https://www.jetbrains.com/resharper/)

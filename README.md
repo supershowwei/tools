@@ -22,7 +22,7 @@
 > - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015)
 > - [Automatic Versions](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 > - [GitHub Extension for Visual Studio](https://visualstudio.github.com/)
-> - [Microsoft CodeLens Code Health Indicator](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator-15077)
+> - Microsoft CodeLens Code Health Indicator [2013](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator), [2015](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator-15077)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete](https://www.devart.com/dbforge/sql/sqlcomplete/)

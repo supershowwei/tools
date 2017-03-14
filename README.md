@@ -29,6 +29,7 @@
 >   - [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
 >   - [Fix Mixed Tabs](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.FixMixedTabs)
 >   - [Match Margin](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MatchMargin)
+>   - [Shrink Empty Lines](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SyntacticLineCompression)
 >   - [Solution Error Visualizer](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer)
 > - [SmartPaster](https://marketplace.visualstudio.com/items?itemName=martinw.SmartPaster2013)
 > - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)

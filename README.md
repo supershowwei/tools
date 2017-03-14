@@ -16,7 +16,15 @@
 > - [CodeMaid](http://www.codemaid.net/)
 > - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides)
 > - [GhostDoc](http://submain.com/products/ghostdoc.aspx)
-> - Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015), [2017](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017)：~~Align Assignments~~、~~Copy As Html~~、~~Middle Click Scroll~~、~~Peek Help~~、~~Power Commands for Visual Studio~~、~~Quick Launch Tasks~~、~~Shrink Empty Lines~~、~~Time Stamp Margin~~
+> - Productivity Power Tools [2013](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2013), [2015](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools2015)
+> - 個別安裝 Productivity Power Tools 2017 套件
+>   - [Ctrl+Click GoTo Definition](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CtrlClickGoToDefinition)
+>   - [Custom Document Well](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.CustomDocumentWell)
+>   - [Double-Click Maximize](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.Double-ClickMaximize)
+>   - [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+>   - [Fix Mixed Tabs](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.FixMixedTabs)
+>   - [Match Margin](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MatchMargin)
+>   - [Solution Error Visualizer](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer)
 > - [SmartPaster](https://marketplace.visualstudio.com/items?itemName=martinw.SmartPaster2013)
 > - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)
 > - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015)

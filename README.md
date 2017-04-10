@@ -14,6 +14,7 @@
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1633: FileMustHaveHeader~~
 > - ~~SA1200: UsingDirectivesMustBePlacedWithinNamespace~~
+> - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
 
 - **Visual Studio 擴充套件**
 > - [ReSharper](https://www.jetbrains.com/resharper/)

@@ -11,10 +11,11 @@
 - 排程器 API - [Quartz.NET](https://www.quartz-scheduler.net/)（[文章](http://huan-lin.blogspot.com/2014/03/aspnet-background-tasks-using-quartznet.html)）
 
 - **程式碼風格警示 - [StyleCop](https://stylecop.codeplex.com/)**
+> - ~~SA1200: UsingDirectivesMustBePlacedWithinNamespace~~
+> - ~~SA1402: FileMayOnlyContainASingleClass~~
+> - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1633: FileMustHaveHeader~~
-> - ~~SA1200: UsingDirectivesMustBePlacedWithinNamespace~~
-> - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
 
 - **Visual Studio 擴充套件**
 > - [ReSharper](https://www.jetbrains.com/resharper/)

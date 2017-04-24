@@ -14,6 +14,7 @@
 > - ~~SA1200: UsingDirectivesMustBePlacedWithinNamespace~~
 > - ~~SA1402: FileMayOnlyContainASingleClass~~
 > - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
+> - ~~SA1503: CurlyBracketsMustNotBeOmitted~~
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1602: EnumerationItemsMustBeDocumented~~
 > - ~~SA1623: PropertySummaryDocumentationMustMatchAccessors~~

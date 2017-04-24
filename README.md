@@ -16,6 +16,7 @@
 > - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1602: EnumerationItemsMustBeDocumented~~
+> - ~~SA1623: PropertySummaryDocumentationMustMatchAccessors~~
 > - ~~SA1633: FileMustHaveHeader~~
 
 - **Visual Studio 擴充套件**

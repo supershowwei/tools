@@ -17,7 +17,10 @@
 > - ~~SA1503: CurlyBracketsMustNotBeOmitted~~
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1602: EnumerationItemsMustBeDocumented~~
+> - ~~SA1611: ElementParametersMustBeDocumented~~
+> - ~~SA1615: ElementReturnValueMustBeDocumented~~
 > - ~~SA1623: PropertySummaryDocumentationMustMatchAccessors~~
+> - ~~SA1630: DocumentationTextMustContainWhitespace~~
 > - ~~SA1633: FileMustHaveHeader~~
 
 - **Visual Studio 擴充套件**

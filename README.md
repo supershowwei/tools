@@ -55,6 +55,11 @@
 
 - [Jenkins](https://jenkins.io/)（[文章](https://dotblogs.com.tw/supershowwei/tags/1?qq=CI)）
 
+## 個人生產力
+
+- Launcher - [Wox](http://www.getwox.com/)（[文章](http://www.playpcesor.com/2016/08/wox-windows.html)）
+- Clipboard - [Ditto](http://ditto-cp.sourceforge.net/)
+
 ## 系統工具
 
 - MEMORY Dump 檔案檢視工具 - [BlueScreenView](http://www.nirsoft.net/utils/blue_screen_view.html)（[文章](http://download.ithome.com.tw/article/index/id/290)）

@@ -55,7 +55,14 @@
 
 ## 持續整合
 
-- [Jenkins](https://jenkins.io/)（[文章](https://dotblogs.com.tw/supershowwei/tags/1?qq=CI)）
+- **[Jenkins](https://jenkins.io/)（[文章](https://dotblogs.com.tw/supershowwei/tags/1?qq=CI)）**
+> - [MSBuild Plugin](http://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin)
+> - [MSTest plugin](http://wiki.jenkins-ci.org/display/JENKINS/MSTest+Plugin)
+> - [VSTest Runner plugin](http://wiki.jenkins-ci.org/display/JENKINS/VsTestRunner+Plugin)
+> - [Hudson Post build task](http://wiki.hudson-ci.org/display/HUDSON/Post+build+task)
+> - [Emma plugin](https://wiki.jenkins-ci.org/display/JENKINS/Emma+Plugin)
+> - [HTML Publisher plugin](http://wiki.jenkins-ci.org/display/JENKINS/HTML+Publisher+Plugin)
+> - [Email Extension Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin)
 
 ## 個人生產力
 

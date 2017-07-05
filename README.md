@@ -23,6 +23,7 @@
 > - ~~SA1623: PropertySummaryDocumentationMustMatchAccessors~~
 > - ~~SA1630: DocumentationTextMustContainWhitespace~~
 > - ~~SA1633: FileMustHaveHeader~~
+> - ~~SA1650: ElementDocumentationMustBeSpelledCorrectly~~
 
 - **Visual Studio 擴充套件**
 > - [ReSharper](https://www.jetbrains.com/resharper/)

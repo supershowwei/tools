@@ -59,8 +59,11 @@
 > - [MSBuild Plugin](http://wiki.jenkins-ci.org/display/JENKINS/MSBuild+Plugin)
 > - [MSTest plugin](http://wiki.jenkins-ci.org/display/JENKINS/MSTest+Plugin)
 > - [VSTest Runner plugin](http://wiki.jenkins-ci.org/display/JENKINS/VsTestRunner+Plugin)
+> - [FxCop Runner plugin](https://plugins.jenkins.io/fxcop-runner)
+> - [Visual Studio Code Metrics Plugin](https://plugins.jenkins.io/vs-code-metrics)
 > - [Hudson Post build task](http://wiki.hudson-ci.org/display/HUDSON/Post+build+task)
 > - [Emma plugin](https://wiki.jenkins-ci.org/display/JENKINS/Emma+Plugin)
+> - [Violations plugin](https://plugins.jenkins.io/violations)
 > - [HTML Publisher plugin](http://wiki.jenkins-ci.org/display/JENKINS/HTML+Publisher+Plugin)
 > - [Email Extension Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin)
 

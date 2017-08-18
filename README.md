@@ -17,6 +17,7 @@
 > - ~~SA1408: ConditionalExpressionsMustDeclarePrecedence~~
 > - ~~SA1503: CurlyBracketsMustNotBeOmitted~~
 > - ~~SA1600: ElementsMustBeDocumented~~
+> - ~~SA1601: PartialElementsMustBeDocumented~~
 > - ~~SA1602: EnumerationItemsMustBeDocumented~~
 > - ~~SA1611: ElementParametersMustBeDocumented~~
 > - ~~SA1615: ElementReturnValueMustBeDocumented~~

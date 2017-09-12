@@ -69,6 +69,7 @@
 > - [Violations plugin](https://plugins.jenkins.io/violations)
 > - [HTML Publisher plugin](http://wiki.jenkins-ci.org/display/JENKINS/HTML+Publisher+Plugin)
 > - [Email Extension Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin)
+> - [Commit Message Trigger Plugin](https://wiki.jenkins.io/display/JENKINS/Commit+Message+Trigger+Plugin)
 
 ## 個人生產力
 

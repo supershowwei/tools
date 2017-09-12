@@ -63,6 +63,7 @@
 > - [VSTest Runner plugin](http://wiki.jenkins-ci.org/display/JENKINS/VsTestRunner+Plugin)
 > - [FxCop Runner plugin](https://plugins.jenkins.io/fxcop-runner)
 > - [Visual Studio Code Metrics Plugin](https://plugins.jenkins.io/vs-code-metrics)
+> - [PostBuildScript Plugin](https://wiki.jenkins.io/display/JENKINS/PostBuildScript+Plugin)（需手動安裝）
 > - [Hudson Post build task](http://wiki.hudson-ci.org/display/HUDSON/Post+build+task)
 > - [Emma plugin](https://wiki.jenkins-ci.org/display/JENKINS/Emma+Plugin)
 > - [Violations plugin](https://plugins.jenkins.io/violations)

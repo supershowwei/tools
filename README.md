@@ -4,6 +4,7 @@
 
 - Visual Studio 2013, 2015, 2017
 - AOP Framework - [POSTSHARP](https://www.postsharp.net/)
+- AOP Library - [Castle.DynamicProxy](https://github.com/castleproject/Core)
 - Regular Expression Debugger for .NET - [REGEX TESTER](http://regexstorm.net/tester)
 - 觀察 HTTP 封包 - [Fiddler](http://www.telerik.com/fiddler)
 - 測試 HTTP - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-TW)

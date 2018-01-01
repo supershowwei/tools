@@ -50,6 +50,7 @@
 > - [GitHub Extension for Visual Studio](https://visualstudio.github.com/)
 > - Microsoft CodeLens Code Health Indicator [2013](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator), [2015](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator-15077)
 > - [Configuration Transform](https://marketplace.visualstudio.com/items?itemName=GolanAvraham.ConfigurationTransform)
+> - [Show Missing Files](https://marketplace.visualstudio.com/items?itemName=DavidGardiner.ShowMissingFiles)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete](https://www.devart.com/dbforge/sql/sqlcomplete/)

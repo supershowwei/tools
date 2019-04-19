@@ -16,6 +16,7 @@
 > - ~~SA1407: ArithmeticExpressionsMustDeclarePrecedence~~
 > - ~~SA1408: ConditionalExpressionsMustDeclarePrecedence~~
 > - ~~SA1503: CurlyBracketsMustNotBeOmitted~~
+> - ~~SA1504: AllAccessorsMustBeSingleLineOrMultiLine~~
 > - ~~SA1600: ElementsMustBeDocumented~~
 > - ~~SA1601: PartialElementsMustBeDocumented~~
 > - ~~SA1602: EnumerationItemsMustBeDocumented~~

@@ -45,11 +45,12 @@
 >   - [Solution Error Visualizer](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.SolutionErrorVisualizer)
 > - [SmartPaster](https://marketplace.visualstudio.com/items?itemName=martinw.SmartPaster2013)
 > - [SolutionStartPage](https://github.com/Herdo/SolutionStartPage)
-> - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015)
+> - Visual Studio Restart [2013](https://marketplace.visualstudio.com/items?itemName=MassimilianoDonini.VisualStudioRestart), [2015](https://marketplace.visualstudio.com/items?itemName=RonDeFreitas.VisualStudioRestart2015), [2017](https://marketplace.visualstudio.com/items?itemName=vs-publisher-356819.VSRestart2017)
 > - [Automatic Versions](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 > - [GitHub Extension for Visual Studio](https://visualstudio.github.com/)
 > - Microsoft CodeLens Code Health Indicator [2013](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator), [2015](https://marketplace.visualstudio.com/items?itemName=Jean-MarcPrieur.MicrosoftCodeLensCodeHealthIndicator-15077)
 > - [Configuration Transform](https://marketplace.visualstudio.com/items?itemName=GolanAvraham.ConfigurationTransform)
+> - [File Nesting](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileNesting)
 
 - **SSMS Add-Ins**
 > - [dbForge SQL Complete](https://www.devart.com/dbforge/sql/sqlcomplete/)
